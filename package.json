@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "start-mfe": "webpack serve",
-    "build": "react-scripts build",
+    "build": "webpack build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
